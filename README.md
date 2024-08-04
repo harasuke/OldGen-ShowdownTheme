@@ -17,7 +17,7 @@ Use a browser extension to inject the content of "style.css"
 [Download for Stylish]()
 
 #### Installing on Safari
-If you are using Safari on mac or iOS, simply install this [Shortcut](), then, when you are on the Showdown page, share the page to the shortcut and it will apply the style.  
+If you are using Safari on mac or iOS, simply install this [Shortcut](https://www.icloud.com/shortcuts/4973971eb8ba4c0f9e19bb96eb89bacd), then, when you are on the Showdown page, share the page to the shortcut and it will apply the style.  
 
 ## Reference
 Part of the codebase has been taken from other themes:
